@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd --reference-olleh hello
+mkdir -m 751 dir_alx
